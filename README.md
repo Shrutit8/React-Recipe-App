@@ -1,3 +1,5 @@
+This is a simple React App for searching recipes from an API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
